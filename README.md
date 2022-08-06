@@ -4,11 +4,14 @@
 2. website_QR_generator - The website code for generating the QR at the manufacturer
 3. website_QR_scanner - The website code to scan the QR code at the distributor
 
-- video
+- video : 
+
 It  has the video explaining the flow of the project
 
-- Solidity code
+- Solidity code : 
+
 It is the smart contract code for the BSVS
 
-- QR_generator_code
+- QR_generator_code :
+
 It has the code to the QR generator
